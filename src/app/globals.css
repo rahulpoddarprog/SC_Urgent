@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pure-black: #000000;
+  --color-pure-white: #ffffff;
+  --color-stat-green: #22c55e;
+  --color-stat-red: #ef4444;
+  --color-stat-yellow: #eab308;
+  --color-action-cyan: #06b6d4;
+
+  --font-sans: var(--font-inter), system-ui, sans-serif;
+  --font-display: var(--font-outfit), sans-serif;
+  --font-mono: var(--font-fira-code), monospace;
+}
+
